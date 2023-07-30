@@ -1,4 +1,4 @@
-import java.util.jar.Attributes.Name;
+
 
 public class DemoTask6B {
 
