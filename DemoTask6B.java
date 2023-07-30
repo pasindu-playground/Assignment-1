@@ -9,6 +9,8 @@ public class DemoTask6B {
         String reff2 = "\033[33m";
         String reff3 = "\033[30m";
         String reff4 = "\033[35m";
+
+    
         
         System.out.printf("%s+-----------------+-----+ \n",reff2);
         System.out.printf("| %1$s NAME %2$15s| %1$sAGE %2$s|\n",reff1,reff2);
